@@ -29,7 +29,7 @@ const Container = styled.section`
   height: 100vh;
 `;
 const Content = styled.div`
-  //   margin-bottom: 10vw;
+  margin-bottom: 3vw;
   width: 100%;
   position: relative;
   height: 100vh;
